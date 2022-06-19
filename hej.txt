@@ -1,0 +1,3 @@
+Jag är en textfil
+Det här är rad två
+Och detta rad tre!
